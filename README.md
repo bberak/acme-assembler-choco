@@ -1,6 +1,8 @@
 # ACME Assembler - Chocolatey Package
 
-This repo contains the choco package artefacts for install the [ACME Assembler](https://sourceforge.net/projects/acme-crossass/) on your Windows machine
+This repo contains the choco package artefacts for install the [ACME Assembler](https://sourceforge.net/projects/acme-crossass/) on your Windows machine.
+
+It currently uses ACME version `0.96.4.0`
 
 ## Prequisites
 
