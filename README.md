@@ -6,7 +6,7 @@ This repo contains the choco package artefacts for install the [ACME Assembler](
 
 - [Chocolatey](https://chocolatey.org/)
 
-## Getting Started
+## Installing Package
 
 Build the .nupkg:
 
@@ -20,4 +20,18 @@ Intall the .nupkg using choco:
 
 ```
 choco install acme-assembler.0.96.4.0.nupkg
+```
+
+You can now run ACME from the commandline:
+
+```
+acme
+```
+
+## Uninstalling Package
+
+To remove, simply run:
+
+```
+choco uninstall acme-assembler
 ```
