@@ -19,7 +19,7 @@ choco pack
 Intall the .nupkg using choco:
 
 ```
-choco install acme-assembler.0.96.4.0.nupkg
+choco install acme-assembler -s ".\"
 ```
 
 You can now run ACME from the commandline:
