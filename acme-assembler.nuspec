@@ -35,7 +35,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
     <title>acme-assembler (Install)</title>
-    <authors>marcobaye </authors>
+    <authors>marcobaye</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://sourceforge.net/projects/acme-crossass/</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/acme-assembler.png</iconUrl>-->
