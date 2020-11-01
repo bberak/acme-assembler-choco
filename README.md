@@ -4,7 +4,7 @@ This repo contains the choco package artefacts for installing the [ACME Assemble
 
 It currently uses ACME version `0.96.4.0`
 
-## Prequisites
+## Prerequisites
 
 - [Chocolatey](https://chocolatey.org/)
 
